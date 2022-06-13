@@ -1,0 +1,1 @@
+wait_rule_id,stop_id,service_id,start_time,end_time,mean_wait_time,safe_wait_time

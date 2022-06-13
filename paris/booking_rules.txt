@@ -1,0 +1,4 @@
+booking_rule_id,booking_type,prior_notice_duration_min,prior_notice_duration_max,message,info_url,booking_url,download_app_url,phone_number
+AlphaRule,1,0,86400,"Service en français et en anglais",https://reservation.alphataxis.fr/,,"+331 45 85 85 85"
+G7Rule,1,0,43200,"Service en français et en anglais",https://www.g7.fr/,https://www.g7.fr/,"3607"
+BelemRule,1,0,43200,"Service en français et en anglais",,,"+331 42 70 00 42"

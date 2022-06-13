@@ -1,0 +1,2 @@
+rider_category_id,rider_category_name,rider_category_desc,eligibility,eligibility_urns,trip_purpose,registration_url,registration_phone
+AllRiders,"Tout public",0,,0

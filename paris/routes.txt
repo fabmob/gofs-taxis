@@ -1,0 +1,4 @@
+agency_id,route_id,route_type,route_short_name,route_color,route_text_color
+Alpha,AlphaRoute,13,Taxi,eec223,ffffff
+G7,G7Route,13,Taxi,eb0025,ffffff
+Belem,BelemRoute,13,Taxi,ff7f00,ffffff

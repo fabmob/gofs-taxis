@@ -1,0 +1,4 @@
+route_id,service_id,trip_id,trip_typey,capability_id,vehicle_category_id,priced_itinerary,wheelchair_accessible,bikes_allowed,luggage_allowed,pets_allowed,service_animal_allowed
+AlphaRoute,AllDays,AlphaTrip,1,RegularCapability,AlphaSedan,2,2,2,1,2,2
+G7Route,AllDays,G7Trip,1,RegularCapability,G7Sedan,2,2,2,1,2,2
+BelemRoute,AllDays,BelemTrip,1,RegularCapability,BelemSedan,2,2,2,1,2,2

@@ -1,0 +1,8 @@
+fare_leg_id,network_id,currency,amount,variable_group_id,price_adjustment,tax_inclusion,tip_acceptance,discount_url,from_area_id,to_area_id,is_symmetrical
+ParisFare,G7Route,EUR,2.60,G7Fare,1,0,1,,,,
+ParisFare,AlphaRoute,EUR,2.60,AlphaFare,1,0,1,,,,
+ParisFare,BelemRoute,EUR,2.60,BelemFare,1,0,1,,,,
+"Forfait CDG RD",,EUR,53,,1,0,1,,CDGAirport,ParisRiveDroite,1
+"Forfait CDG RG",,EUR,58,,1,0,1,,CDGAirport,ParisRiveGauche,1
+"Forfait Orly RD",,EUR,37,,1,0,1,,OrlyAirport,ParisRiveDroite,1
+"Forfait Orly RG",,EUR,32,,1,0,1,,OrlyAirport,ParisRiveGauche,1

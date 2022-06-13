@@ -1,0 +1,2 @@
+capability_id,service_level,assistance_training
+RegularCapability,1,2

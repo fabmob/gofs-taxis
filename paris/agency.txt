@@ -1,0 +1,4 @@
+agency_id,agency_name,agency_url,agency_timezone
+Alpha,Alpha Taxis,https://alphataxis.fr/,Europe/Paris
+G7,Taxis G7,https://www.g7.fr/,Europe/Paris
+Belem,Belem Taxis 7000,https://www.itaxis.fr/chauffeurs/belem-taxis-7000-14313.htm,Europe/Paris

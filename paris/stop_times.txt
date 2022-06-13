@@ -1,0 +1,4 @@
+trip_id,stop_sequence,stop_id,pickup_type,drop_off_type,pickup_proximity_level,drop_off_proximity_level,start_pickup_dropoff_window,end_pickup_dropoff_window,mean_wait_time,safe_wait_time,wait_rule_id,mean_duration_factor,mean_duration_offset,safe_duration_factor,safe_duration_offset,booking_rule_id,rider_category_id
+AlphaTrip,1,ParisIntraMuros,4,4,1,1,00:00:00,24:00:00,12,20,,1,0,1.2,4,AlphaRule,AllRiders
+G7Trip,1,ParisIntraMuros,4,4,1,1,00:00:00,24:00:00,12,20,,1,0,1.2,4,G7Rule,AllRiders
+BelemTrip,1,ParisIntraMuros,4,4,1,1,00:00:00,24:00:00,12,20,,1,0,1.2,4,BelemRule,AllRiders

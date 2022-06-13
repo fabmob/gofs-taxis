@@ -1,0 +1,4 @@
+vehicle_category_id,wheelchair_capacity,wheelchair_boarding,vehicle_ramp,vehicle_lift,max_capacity,seating_capacity,rear_facing_child_seat,forward_facing_child_seat,propulsion
+AlphaSedan,0,2,2,1,3,3,0,0,1
+G7Sedan,0,2,2,1,3,3,0,0,1
+BelemSedan,0,2,2,1,3,3,0,0,1
